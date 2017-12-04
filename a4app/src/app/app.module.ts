@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { NavSideBarComponent } from './components/nav-side-bar/nav-side-bar.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NavSideBarComponent
   ],
   imports: [
     BrowserModule
