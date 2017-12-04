@@ -1,4 +1,4 @@
 # BaseAngular
-'''bash
+```bash
 ng new a4app
-'''
+```
