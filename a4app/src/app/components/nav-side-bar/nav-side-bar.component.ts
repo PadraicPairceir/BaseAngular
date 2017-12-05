@@ -7,6 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavSideBarComponent implements OnInit {
 
+  companyName:string = "Company Name";
+  brandNameFirst:string = "B";
+  brandNameSecond:string = "D";
+  
   constructor() { }
 
   ngOnInit() {
